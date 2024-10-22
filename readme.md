@@ -118,4 +118,4 @@ Open a pull request.
 Screenshots
 ----------------------------------------------------------------------
 
-![p1](Screenshot 2024-10-22 175534.png)
+![p1]([Screenshot 2024-10-22 175534.png](https://github.com/Gopal381/xenonstack-task1/blob/main/Screenshot%202024-10-22%20175534.png))

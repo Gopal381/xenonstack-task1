@@ -118,5 +118,5 @@ Open a pull request.
 Screenshots
 ----------------------------------------------------------------------
 
-![](![{23F839E4-6774-411D-A216-86C40BF7961D}](https://github.com/user-attachments/assets/5751d8c2-978c-4d2f-aebd-65707425302e)
+![p1](Screenshot 2024-10-22 175534.png)
 )

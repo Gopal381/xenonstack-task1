@@ -119,3 +119,8 @@ Screenshots
 ----------------------------------------------------------------------
 
 ![p1](https://github.com/Gopal381/xenonstack-task1/blob/main/Screenshot%202024-10-22%20175534.png)
+![](https://github.com/Gopal381/xenonstack-task1/blob/main/Screenshot%202024-10-22%20180254.png)
+![](https://github.com/Gopal381/xenonstack-task1/blob/main/Screenshot%202024-10-22%20180308.png)
+![](https://github.com/Gopal381/xenonstack-task1/blob/main/Screenshot%202024-10-22%20180333.png)
+![](https://github.com/Gopal381/xenonstack-task1/blob/main/Screenshot%202024-10-22%20180343.png)
+![](https://github.com/Gopal381/xenonstack-task1/blob/main/Screenshot%202024-10-22%20180402.png)
